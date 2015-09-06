@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[photos]]></title>
         <description><![CDATA[photos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Sep 2015 20:26:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 06 Sep 2015 20:53:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mideau]]></title>
+            <description><![CDATA[<article><h1>Mideau</h1><p>b3njamin photography</p><img src="http://a2.format-assets.com/image/private/s--n8-aFmBt--/c_limit,g_center,h_65535,w_1600/a_auto,fl_keep_iptc.progressive,q_95/1509025_564950393594221_1129081509_n_dqslar.jpg"></article>]]></description>
+            <link>http://www.b3njamin.net/mideau</link>
+            <guid isPermaLink="false">ef9e5def-e540-4949-917b-8241ba7bf46f</guid>
+            <pubDate>Sun, 06 Sep 2015 20:53:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[b3njamin - phantogram]]></title>
             <description><![CDATA[<article><h1>b3njamin - phantogram</h1><p>b3njamin photography</p><img src="http://a1.format-assets.com/image/private/s--Wumg9GMt--/c_limit,g_center,h_1200,w_65535/a_auto,fl_keep_iptc.progressive,q_95/_MG_8489_anuicj.jpg"></article>]]></description>
