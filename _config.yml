@@ -1,30 +1,54 @@
-name: photos
-favicon: null
-layout_spectrum: 0.57297
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - filter:
+      notType:
+        type: WebPage
+    index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+  - filter:
+      type:
+        type: Article
+    permalink:
+      path: '/:title/'
+  - filter:
+      type:
+        type: WebPage
+    permalink:
+      path: '/:title/'
+      navigable: true
+layout_spectrum: 0.57297
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.5
+  brandStrength: 1
+  rhythmicContrast: 0.5
   brandColors:
     - '#9b9b9b'
     - '#0a0a0a'
     - '#272727'
     - '#626262'
     - '#f5f5f5'
-  brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
 purpose:
   - name: shares
-    item: null
     url: null
+    item: null
+favicon: null
+name: photos
+analytics:
+  twitter: null
+  google: null
+  facebook: null
