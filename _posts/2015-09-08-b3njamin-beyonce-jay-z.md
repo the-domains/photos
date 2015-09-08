@@ -8,8 +8,8 @@ author: []
 related: []
 app_links: []
 title: b3njamin - beyonce + jay z
-datePublished: '2015-09-08T18:28:45.737Z'
-dateModified: '2015-09-08T18:28:27.929Z'
+datePublished: '2015-09-08T18:39:45.829Z'
+dateModified: '2015-09-08T18:28:45.737Z'
 authors: []
 publisher:
   name: b3njamin
