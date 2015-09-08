@@ -8,8 +8,8 @@ author: []
 related: []
 app_links: []
 title: b3njamin - phantogram
-datePublished: '2015-09-08T18:00:06.841Z'
-dateModified: '2015-09-07T18:37:28.457Z'
+datePublished: '2015-09-08T18:45:12.396Z'
+dateModified: '2015-09-08T18:45:09.911Z'
 sourcePath: _posts/2015-09-06-b3njamin-phantogram.md
 published: true
 authors: []
