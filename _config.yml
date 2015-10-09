@@ -1,7 +1,7 @@
 name: photos
 favicon: null
-layout_spectrum: 0.24737
-typography_spectrum: 0.28379
+layout_spectrum: 0.57981
+typography_spectrum: 0.41622
 cta:
   domain: null
   bucket: null
@@ -22,9 +22,9 @@ color:
     - '#00140b'
     - '#f2e2c7'
   brandStrength: 0.1875
-  lightness: 0.6875
-  saturation: 0.5625
-  rhythmicContrast: 0.75
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: shares
     item: null
